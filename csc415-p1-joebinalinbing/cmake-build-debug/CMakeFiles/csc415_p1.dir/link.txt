@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/csc415_p1.dir/hello_world.c.o  -o csc415_p1.exe -Wl,--out-implib,libcsc415_p1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

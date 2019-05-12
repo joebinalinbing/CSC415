@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p1-joebinalinbing/hello_world.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+
