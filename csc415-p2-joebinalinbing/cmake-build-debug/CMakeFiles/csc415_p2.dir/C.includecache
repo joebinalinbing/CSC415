@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_GitHub/csc415-p2-joebinalinbing/filecopy.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+
