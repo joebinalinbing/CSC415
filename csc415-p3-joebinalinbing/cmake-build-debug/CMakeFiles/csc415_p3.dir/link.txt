@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/csc415_p3.dir/myshell.c.o  -o csc415_p3 

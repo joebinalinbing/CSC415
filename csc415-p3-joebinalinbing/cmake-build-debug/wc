@@ -1,0 +1,11 @@
+total 140
+-rw-r--r--+ 1 jbing jbing  47539 Mar 15 21:33 CMakeCache.txt
+drwx------+ 1 jbing jbing      0 Mar 15 22:15 CMakeFiles
+-rw-r--r--+ 1 jbing jbing   5293 Mar 15 21:33 Makefile
+-rw-r--r--+ 1 jbing jbing   1460 Mar 15 21:33 cmake_install.cmake
+-rwx------+ 1 jbing jbing  23200 Mar 15 21:26 csc415_p3
+-rw-r--r--+ 1 jbing jbing   6621 Mar 15 21:33 csc415_p3.cbp
+-rwxr-xr-x+ 1 jbing jbing 174983 Mar 15 22:15 csc415_p3.exe
+-rwxr--r--+ 1 jbing jbing      0 Mar 15 22:16 outﬁle
+-rwxr--r--+ 1 jbing jbing      0 Mar 15 22:16 outﬁle2
+-rwxr--r--+ 1 jbing jbing      0 Mar 15 22:18 wc

@@ -1,0 +1,11 @@
+Scanning dependencies of target csc415_p3
+[ 50%] Building C object CMakeFiles/csc415_p3.dir/myshell.c.o
+/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p3-joebinalinbing/myshell.c:28:0: warning: "clear" redefined
+ #define clear() printf("\033[H\033[J")
+ 
+In file included from /cygdrive/c/Users/jbing/Documents/GitHub/csc415-p3-joebinalinbing/myshell.c:15:0:
+/usr/include/slcurses.h:200:0: note: this is the location of the previous definition
+ #define clear() SLcurses_wclear(stdscr)
+ 
+[100%] Linking C executable csc415_p3.exe
+[100%] Built target csc415_p3

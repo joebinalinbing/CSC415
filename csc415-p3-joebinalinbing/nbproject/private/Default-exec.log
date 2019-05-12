@@ -1,0 +1,23 @@
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\jbing\Documents\GitHub\csc415-p3-joebinalinbing
+	C:\cygwin64\bin\gcc.exe
+	-g3
+	-gdwarf-2
+	-std=gnu99
+	-o
+	CMakeFiles/csc415_p3.dir/myshell.c.o
+	-c
+	/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p3-joebinalinbing/myshell.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\jbing\Documents\GitHub\csc415-p3-joebinalinbing
+	C:\cygwin64\bin\gcc.exe
+	-g3
+	-gdwarf-2
+	-Wl,--enable-auto-import
+	CMakeFiles/csc415_p3.dir/myshell.c.o
+	-o
+	csc415_p3.exe
+	-Wl,--out-implib,libcsc415_p3.dll.a
+	-Wl,--major-image-version,0,--minor-image-version,0
+
