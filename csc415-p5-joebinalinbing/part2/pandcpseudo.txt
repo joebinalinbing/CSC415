@@ -1,0 +1,48 @@
+-collect the six arguments(N,P,C,X PTime,CTime)
+if we don't receive 6 args, exit
+
+-print out arguments
+
+-initialize the buffer, consumer, and producers arrays as well as the mutex
+and 2 semaphores and the counters for consumers and producers
+
+-create threads for consumers and producers
+
+-joined the two threads
+
+-compare the consumer and producers array to determine syncronizations
+
+-*producer(void *index)
+loop until item produce amount is reached
+  acquire the empty lock so threads does not reach amount produced
+  acquire the mutex lock  to guarantee threads one at a time
+  insert item - add the next item to buffer
+  print out the id of produced
+  release the mutex lock
+  signal full
+
+
+-*consumer(void *index)
+loop until item consumer amount is reached
+    acquire the full lock (decrement the semophore)
+    acquire the mutex lock
+    remove item (dequeue_item)
+    print out consumer id
+    release the mutex lock
+    signal empty (increment semaphore)
+if oversumption is true
+    loop until overconsumed is reached
+        same procedure as above
+
+
+-enqueue_item
+store the  item id of producer to the buffer array
+-increment the amount consumed
+
+
+
+
+-dequeue_item
+set item = value of buffer array
+amount consumed++
+return item

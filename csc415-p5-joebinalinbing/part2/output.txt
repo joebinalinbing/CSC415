@@ -1,0 +1,353 @@
+C:\Users\jbing\Documents\GitHub\csc415-p5-joebinalinbing\part2\cmake-build-debug\pandc.exe 7 7 9 15 1 1
+Current Time: Mon May  6 23:25:05 2019
+
+
+                        Number of Buffers:    7
+                      Number of Producers:    7
+                      Number of Consumers:    9
+Number of items Produced by each producer:   15
+Number of items consumed by each consumer:   11
+                         Over consume on?:    1
+                      Over consume amount:    6
+      Time each Producer Sleeps (seconds):    1
+      Time each Consumer Sleeps (seconds):    1
+
+Item 1 was produced by producer-> ID #1
+Item 2 was produced by producer-> ID #2
+Item 3 was produced by producer-> ID #3
+Item 4 was produced by producer-> ID #4
+Item 5 was produced by producer-> ID #5
+Item 6 was produced by producer-> ID #6
+Item 7 was produced by producer-> ID #7
+Item 1 was consumed by consumer-> ID #1
+Item 2 was consumed by consumer-> ID #2
+Item 3 was consumed by consumer-> ID #3
+Item 4 was consumed by consumer-> ID #4
+Item 5 was consumed by consumer-> ID #5
+Item 6 was consumed by consumer-> ID #6
+Item 7 was consumed by consumer-> ID #7
+Item 8 was produced by producer-> ID #4
+Item 9 was produced by producer-> ID #3
+Item 10 was produced by producer-> ID #6
+Item 11 was produced by producer-> ID #5
+Item 12 was produced by producer-> ID #2
+Item 13 was produced by producer-> ID #1
+Item 14 was produced by producer-> ID #7
+Item 8 was consumed by consumer-> ID #8
+Item 9 was consumed by consumer-> ID #9
+Item 10 was consumed by consumer-> ID #4
+Item 11 was consumed by consumer-> ID #2
+Item 12 was consumed by consumer-> ID #6
+Item 13 was consumed by consumer-> ID #3
+Item 14 was consumed by consumer-> ID #5
+Item 15 was produced by producer-> ID #4
+Item 16 was produced by producer-> ID #3
+Item 17 was produced by producer-> ID #5
+Item 18 was produced by producer-> ID #1
+Item 19 was produced by producer-> ID #2
+Item 20 was produced by producer-> ID #6
+Item 21 was produced by producer-> ID #7
+Item 15 was consumed by consumer-> ID #7
+Item 16 was consumed by consumer-> ID #1
+Item 17 was consumed by consumer-> ID #2
+Item 18 was consumed by consumer-> ID #9
+Item 19 was consumed by consumer-> ID #8
+Item 20 was consumed by consumer-> ID #3
+Item 21 was consumed by consumer-> ID #6
+Item 22 was produced by producer-> ID #3
+Item 23 was produced by producer-> ID #4
+Item 24 was produced by producer-> ID #6
+Item 25 was produced by producer-> ID #5
+Item 26 was produced by producer-> ID #7
+Item 27 was produced by producer-> ID #2
+Item 28 was produced by producer-> ID #1
+Item 22 was consumed by consumer-> ID #4
+Item 23 was consumed by consumer-> ID #5
+Item 24 was consumed by consumer-> ID #8
+Item 25 was consumed by consumer-> ID #6
+Item 26 was consumed by consumer-> ID #3
+Item 27 was consumed by consumer-> ID #9
+Item 28 was consumed by consumer-> ID #2
+Item 29 was produced by producer-> ID #3
+Item 30 was produced by producer-> ID #6
+Item 31 was produced by producer-> ID #4
+Item 32 was produced by producer-> ID #1
+Item 33 was produced by producer-> ID #7
+Item 34 was produced by producer-> ID #5
+Item 29 was consumed by consumer-> ID #7
+Item 35 was produced by producer-> ID #2
+Item 30 was consumed by consumer-> ID #1
+Item 31 was consumed by consumer-> ID #8
+Item 32 was consumed by consumer-> ID #5
+Item 33 was consumed by consumer-> ID #3
+Item 34 was consumed by consumer-> ID #9
+Item 35 was consumed by consumer-> ID #2
+Item 36 was produced by producer-> ID #2
+Item 37 was produced by producer-> ID #6
+Item 38 was produced by producer-> ID #3
+Item 36 was consumed by consumer-> ID #6
+Item 39 was produced by producer-> ID #4
+Item 40 was produced by producer-> ID #5
+Item 37 was consumed by consumer-> ID #4
+Item 41 was produced by producer-> ID #7
+Item 42 was produced by producer-> ID #1
+Item 38 was consumed by consumer-> ID #5
+Item 39 was consumed by consumer-> ID #1
+Item 40 was consumed by consumer-> ID #3
+Item 41 was consumed by consumer-> ID #8
+Item 42 was consumed by consumer-> ID #9
+Item 43 was produced by producer-> ID #3
+Item 44 was produced by producer-> ID #2
+Item 45 was produced by producer-> ID #1
+Item 46 was produced by producer-> ID #7
+Item 47 was produced by producer-> ID #4
+Item 48 was produced by producer-> ID #6
+Item 49 was produced by producer-> ID #5
+Item 43 was consumed by consumer-> ID #7
+Item 44 was consumed by consumer-> ID #2
+Item 45 was consumed by consumer-> ID #1
+Item 46 was consumed by consumer-> ID #6
+Item 47 was consumed by consumer-> ID #9
+Item 48 was consumed by consumer-> ID #8
+Item 49 was consumed by consumer-> ID #3
+Item 50 was produced by producer-> ID #5
+Item 51 was produced by producer-> ID #4
+Item 52 was produced by producer-> ID #3
+Item 53 was produced by producer-> ID #2
+Item 54 was produced by producer-> ID #6
+Item 55 was produced by producer-> ID #1
+Item 56 was produced by producer-> ID #7
+Item 50 was consumed by consumer-> ID #5
+Item 51 was consumed by consumer-> ID #4
+Item 52 was consumed by consumer-> ID #7
+Item 53 was consumed by consumer-> ID #9
+Item 54 was consumed by consumer-> ID #2
+Item 55 was consumed by consumer-> ID #8
+Item 56 was consumed by consumer-> ID #3
+Item 57 was produced by producer-> ID #4
+Item 58 was produced by producer-> ID #3
+Item 59 was produced by producer-> ID #7
+Item 60 was produced by producer-> ID #5
+Item 61 was produced by producer-> ID #6
+Item 62 was produced by producer-> ID #1
+Item 63 was produced by producer-> ID #2
+Item 57 was consumed by consumer-> ID #6
+Item 58 was consumed by consumer-> ID #1
+Item 59 was consumed by consumer-> ID #3
+Item 60 was consumed by consumer-> ID #8
+Item 61 was consumed by consumer-> ID #4
+Item 62 was consumed by consumer-> ID #7
+Item 63 was consumed by consumer-> ID #2
+Item 64 was produced by producer-> ID #3
+Item 65 was produced by producer-> ID #6
+Item 66 was produced by producer-> ID #4
+Item 67 was produced by producer-> ID #5
+Item 68 was produced by producer-> ID #1
+Item 69 was produced by producer-> ID #2
+Item 70 was produced by producer-> ID #7
+Item 64 was consumed by consumer-> ID #9
+Item 65 was consumed by consumer-> ID #5
+Item 66 was consumed by consumer-> ID #2
+Item 67 was consumed by consumer-> ID #3
+Item 68 was consumed by consumer-> ID #8
+Item 69 was consumed by consumer-> ID #4
+Item 70 was consumed by consumer-> ID #6
+Item 71 was produced by producer-> ID #4
+Item 72 was produced by producer-> ID #3
+Item 73 was produced by producer-> ID #5
+Item 74 was produced by producer-> ID #6
+Item 75 was produced by producer-> ID #7
+Item 76 was produced by producer-> ID #2
+Item 77 was produced by producer-> ID #1
+Item 71 was consumed by consumer-> ID #1
+Item 72 was consumed by consumer-> ID #7
+Item 73 was consumed by consumer-> ID #9
+Item 74 was consumed by consumer-> ID #8
+Item 75 was consumed by consumer-> ID #4
+Item 76 was consumed by consumer-> ID #5
+Item 77 was consumed by consumer-> ID #3
+Item 78 was produced by producer-> ID #3
+Item 79 was produced by producer-> ID #4
+Item 80 was produced by producer-> ID #5
+Item 81 was produced by producer-> ID #7
+Item 82 was produced by producer-> ID #6
+Item 83 was produced by producer-> ID #2
+Item 84 was produced by producer-> ID #1
+Item 78 was consumed by consumer-> ID #6
+Item 79 was consumed by consumer-> ID #2
+Item 80 was consumed by consumer-> ID #9
+Item 81 was consumed by consumer-> ID #8
+Item 82 was consumed by consumer-> ID #3
+Item 83 was consumed by consumer-> ID #4
+Item 84 was consumed by consumer-> ID #5
+Item 85 was produced by producer-> ID #2
+Item 85 was consumed by consumer-> ID #1
+Item 86 was produced by producer-> ID #5
+Item 87 was produced by producer-> ID #7
+Item 88 was produced by producer-> ID #6
+Item 89 was produced by producer-> ID #4
+Item 86 was consumed by consumer-> ID #7
+Item 90 was produced by producer-> ID #3
+Item 91 was produced by producer-> ID #1
+Item 87 was consumed by consumer-> ID #2
+Item 88 was consumed by consumer-> ID #6
+Item 89 was consumed by consumer-> ID #9
+Item 90 was consumed by consumer-> ID #3
+Item 91 was consumed by consumer-> ID #5
+Item 92 was produced by producer-> ID #2
+Item 93 was produced by producer-> ID #5
+Item 94 was produced by producer-> ID #4
+Item 95 was produced by producer-> ID #3
+Item 96 was produced by producer-> ID #6
+Item 97 was produced by producer-> ID #7
+Item 98 was produced by producer-> ID #1
+Item 92 was consumed by consumer-> ID #4
+Item 93 was consumed by consumer-> ID #7
+Item 94 was consumed by consumer-> ID #3
+Item 95 was consumed by consumer-> ID #1
+Item 96 was consumed by consumer-> ID #6
+Item 97 was consumed by consumer-> ID #5
+Item 99 was produced by producer-> ID #1
+Item 100 was produced by producer-> ID #2
+Item 98 was consumed by consumer-> ID #1
+Item 101 was produced by producer-> ID #4
+Item 102 was produced by producer-> ID #3
+Item 103 was produced by producer-> ID #6
+Item 104 was produced by producer-> ID #5
+Item 99 was consumed by consumer-> ID #3
+Item 100 was consumed by consumer-> ID #7
+Item 105 was produced by producer-> ID #7
+Item 101 was consumed by consumer-> ID #4
+Item 102 was consumed by consumer-> ID #1
+Item 103 was consumed by consumer-> ID #7
+Item 104 was consumed by consumer-> ID #3
+Producer 1 joined
+Producer 2 joined
+Producer 3 joined
+Producer 4 joined
+Producer 5 joined
+Producer 6 joined
+Producer 7 joined
+Item 105 was consumed by consumer-> ID #3
+Consumer 1 joined
+Consumer 2 joined
+Consumer 3 joined
+Consumer 4 joined
+Consumer 5 joined
+Consumer 6 joined
+Consumer 7 joined
+Consumer 8 joined
+Consumer 9 joined
+Current Time: Mon May  6 23:25:22 2019
+
+
+PRODUCER  | CONSUMER
+1         | 1
+2         | 2
+3         | 3
+4         | 4
+5         | 5
+6         | 6
+7         | 7
+8         | 8
+9         | 9
+10        | 10
+11        | 11
+12        | 12
+13        | 13
+14        | 14
+15        | 15
+16        | 16
+17        | 17
+18        | 18
+19        | 19
+20        | 20
+21        | 21
+22        | 22
+23        | 23
+24        | 24
+25        | 25
+26        | 26
+27        | 27
+28        | 28
+29        | 29
+30        | 30
+31        | 31
+32        | 32
+33        | 33
+34        | 34
+35        | 35
+36        | 36
+37        | 37
+38        | 38
+39        | 39
+40        | 40
+41        | 41
+42        | 42
+43        | 43
+44        | 44
+45        | 45
+46        | 46
+47        | 47
+48        | 48
+49        | 49
+50        | 50
+51        | 51
+52        | 52
+53        | 53
+54        | 54
+55        | 55
+56        | 56
+57        | 57
+58        | 58
+59        | 59
+60        | 60
+61        | 61
+62        | 62
+63        | 63
+64        | 64
+65        | 65
+66        | 66
+67        | 67
+68        | 68
+69        | 69
+70        | 70
+71        | 71
+72        | 72
+73        | 73
+74        | 74
+75        | 75
+76        | 76
+77        | 77
+78        | 78
+79        | 79
+80        | 80
+81        | 81
+82        | 82
+83        | 83
+84        | 84
+85        | 85
+86        | 86
+87        | 87
+88        | 88
+89        | 89
+90        | 90
+91        | 91
+92        | 92
+93        | 93
+94        | 94
+95        | 95
+96        | 96
+97        | 97
+98        | 98
+99        | 99
+100       | 100
+101       | 101
+102       | 102
+103       | 103
+104       | 104
+105       | 105
+Arrays match!
+Total time elapsed: 17 seconds
+
+Process finished with exit code 0

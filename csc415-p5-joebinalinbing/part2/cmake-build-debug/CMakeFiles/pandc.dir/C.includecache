@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p5-joebinalinbing/part2/pandc.c
+stdio.h
+-
+string.h
+-
+pthread.h
+-
+ctype.h
+-
+stdlib.h
+-
+unistd.h
+-
+time.h
+-
+semaphore.h
+-
+

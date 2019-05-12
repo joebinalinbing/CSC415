@@ -1,0 +1,3 @@
+/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p5-joebinalinbing/part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p5-joebinalinbing/part2/cmake-build-debug/CMakeFiles/pandc.dir
+/cygdrive/c/Users/jbing/Documents/GitHub/csc415-p5-joebinalinbing/part2/cmake-build-debug/CMakeFiles/edit_cache.dir

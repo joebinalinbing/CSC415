@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g  -Wl,--enable-auto-import CMakeFiles/pandc.dir/pandc.c.o  -o pandc.exe -Wl,--out-implib,libpandc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

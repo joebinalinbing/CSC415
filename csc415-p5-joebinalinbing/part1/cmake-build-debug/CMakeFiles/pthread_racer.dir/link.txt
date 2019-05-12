@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g  -Wl,--enable-auto-import CMakeFiles/pthread_racer.dir/pthread_race.c.o  -o pthread_racer.exe -Wl,--out-implib,libpthread_racer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
