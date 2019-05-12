@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/addersubbers.dir/pthread_race.c.o  -o addersubbers -lpthread 
